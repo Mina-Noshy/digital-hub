@@ -1,0 +1,3 @@
+2025-08-30 19:04:53.590 +03:00 [WRN] Digital Hub :: Web host booting up
+2025-08-30 19:04:57.515 +03:00 [WRN] Digital Hub :: http://localhost:2613/
+2025-08-30 19:04:57.515 +03:00 [WRN] Digital Hub :: https://localhost:44318/

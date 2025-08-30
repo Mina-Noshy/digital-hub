@@ -1,0 +1,8 @@
+{
+  "Serilog": {
+    "Path": "wwwroot/logger/log-{date}.txt",
+    "TableName": "ExceptionLog",
+    "SchemaName": "dbo",
+    "AutoCreateSqlTable": true
+  }
+}

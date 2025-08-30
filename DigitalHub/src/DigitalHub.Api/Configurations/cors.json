@@ -1,0 +1,5 @@
+{
+  "CORS": {
+    "Domains": "http://digitalhub.com,https://digitalhub.com,http://localhost:4200"
+  }
+} 

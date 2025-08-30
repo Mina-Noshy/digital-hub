@@ -1,0 +1,12 @@
+﻿namespace DigitalHub.Application.DTOs.Auth.PageMaster;
+
+public record CreatePageMasterDto : IDto
+{
+    public long MenuId { get; set; }
+    public string Name { get; set; } = null!;
+    public string Label { get; set; } = null!;
+    public string Path { get; set; } = null!;
+    public string Icon { get; set; } = null!;
+    public string? I18nKey { get; set; }
+    public int SortOrder { get; set; }
+}

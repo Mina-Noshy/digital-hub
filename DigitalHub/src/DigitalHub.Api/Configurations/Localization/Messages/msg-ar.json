@@ -1,0 +1,54 @@
+{
+  "Msg-AR": {
+    "msg-successful-create": "تم الإنشاء بنجاح",
+    "msg-successful-update": "تم التعديل بنجاح",
+    "msg-successful-delete": "تم الحذف بنجاح",
+
+    "msg-failed-create": "فشل في الإنشاء. يرجى التحقق من التفاصيل والمحاولة مرة أخرى لاحقًا",
+    "msg-failed-update": "فشل في التعديل. يرجى التحقق من التفاصيل والمحاولة مرة أخرى لاحقًا",
+    "msg-failed-delete": "فشل في الحذف. يرجى التحقق من التفاصيل والمحاولة مرة أخرى لاحقًا",
+
+    "msg-invalid-credentials": "اسم المستخدم أو كلمة المرور غير صحيحة",
+    "msg-account-inactive": "حسابك غير نشط. يرجى الاتصال بالدعم",
+    "msg-account-blocked": "حسابك محظور. يرجى الاتصال بالدعم",
+    "msg-confirmation-required": "يتطلب حسابك التأكيد قبل تسجيل الدخول",
+    "msg-unauthorized": "أنت غير مصرح لك بالوصول إلى هذا المورد",
+    "msg-forbidden": "ليس لديك إذن لتنفيذ هذا الإجراء",
+
+    "msg-token-expired": "انتهت صلاحية الجلسة. يرجى تسجيل الدخول مرة أخرى",
+    "msg-token-revoked": "جلستك لم تعد صالحة. يرجى تسجيل الدخول مرة أخرى",
+    "msg-refresh-token-invalid": "رمز التحديث غير صالح أو منتهي الصلاحية",
+
+    "msg-password-updated": "تم تغيير كلمة المرور بنجاح",
+    "msg-email-confirmed": "تم تأكيد البريد الإلكتروني بنجاح",
+    "msg-contact-confirmed": "تم تأكيد رقم الهاتف بنجاح",
+    "msg-email-confirmation-toggled": "تم تبديل تأكيد البريد الإلكتروني بنجاح",
+    "msg-contact-confirmation-toggled": "تم تبديل تأكيد رقم الهاتف بنجاح",
+    "msg-account-activation-toggled": "تم تبديل تفعيل الحساب بنجاح",
+    "msg-account-blockation-toggled": "تم تبديل حظر الحساب بنجاح",
+
+    "msg-unit-unavailable-or-leased": "الوحدة غير متاحة أو تم تأجيرها",
+
+    "msg-entity-id-mismatch": "معرفات العناصر غير متطابقة. يرجى التحقق من التفاصيل والمحاولة مرة أخرى",
+    "msg-item-not-found": "العنصر المطلوب غير موجود. يرجى التحقق من التفاصيل والمحاولة مرة أخرى",
+    "msg-item-already-exist": "العنصر موجود بالفعل. يرجى اختيار اسم أو قيمة مختلفة",
+    "msg-server-error": "حدث خطأ داخلي في الخادم. يرجى المحاولة مرة أخرى لاحقًا",
+    "msg-something-wrong": "حدث خطأ ما. يرجى المحاولة لاحقًا",
+    "msg-rate-limit-exceeded": "تم إرسال الكثير من الطلبات. يرجى التباطؤ والمحاولة لاحقًا",
+
+    "msg-finance-payment-method-no-account": "لا يوجد حساب مرتبط بطريقة الدفع",
+    "msg-finance-security-deposit-config": "لم يتم تكوين الحساب الافتراضي. يرجى تعيين حساب إلى",
+    "msg-security-deposit-received": "تم استلام مبلغ التأمين",
+    "msg-security-deposit-increased": "تم زيادة مبلغ التأمين",
+    "msg-security-deposit-debited": "تم خصم مبلغ التأمين",
+    "msg-deposit-liability-created": "تم تسجيل التزام مالي متعلق بالتأمين",
+    "msg-installment-payment-received": "تم استلام دفعة القسط",
+    "msg-lease-income-recognized": "تم تسجيل دخل الإيجار",
+    "msg-finance-installment-config": "إعداد القسط مفقود لنوع المعاملة",
+    "msg-finance-vat-config": "إعداد ضريبة القيمة المضافة مفقود لنوع المعاملة",
+    "msg-finance-late-fee-config": "إعداد رسوم التأخير مفقود لنوع المعاملة",
+
+    "msg-successful-sent": "تم الإرسال بنجاح",
+    "msg-failed-send": "فشل في الإرسال. يرجى التحقق من التفاصيل والمحاولة مرة أخرى لاحقًا"
+  }
+}

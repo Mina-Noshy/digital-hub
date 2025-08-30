@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "LiveCS": "Data Source=DIGITALHUB; Initial Catalog=DigitalHub; Integrated Security=True; MultipleActiveResultSets=True; TrustServerCertificate=True; Connect Timeout=600;",
+    "DevCS": "Data Source=DIGITALHUB; Initial Catalog=DigitalHub; Integrated Security=True; MultipleActiveResultSets=True; TrustServerCertificate=True; Connect Timeout=600;"
+  }
+}

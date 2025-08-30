@@ -1,0 +1,7 @@
+{
+  "RateLimiter": {
+    "Requests": 50,
+    "Duration": 5, // Seconds
+    "IpBlockDuration": 10 // Minutes
+  }
+} 

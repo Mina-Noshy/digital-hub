@@ -1,0 +1,19 @@
+{
+  "Email-AR": {
+    "password-updated-subject": "{{company}}: تم تحديث كلمة المرور الخاصة بك",
+    "password-updated-body": "<p>مرحباً {{name}}،</p><p>هذا تأكيد بأن كلمة المرور الخاصة بك قد تم تحديثها بنجاح لدى {{company}}.</p><p>كلمة المرور الجديدة هي:</p><h3>{{password}}</h3><p>يمكنك الآن تسجيل الدخول باستخدام بياناتك</p><p>إذا لم تكن أنت من طلب هذا التغيير، يرجى التواصل معنا فوراً.</p><br><p>مع أطيب التحيات،<br><strong>{{company}}</strong></p>",
+
+    "email-confirmation-subject": "{{company}}: تأكيد البريد الإلكتروني",
+    "email-confirmation-body": "<h1>تأكيد بريدك الإلكتروني مع {{company}}</h1><p>يرجى النقر على الزر أدناه لتأكيد عنوان بريدك الإلكتروني.</p><a href=\"{{confirmation-url}}\" class=\"button\">تأكيد البريد الإلكتروني</a>",
+
+    "successful-create-lease-agreement-subject": "{{company}}: تأكيد عقد الإيجار",
+    "successful-create-lease-agreement-body": "<p>مرحباً {{name}},</p><p>تم إنشاء عقد الإيجار الخاص بك بنجاح مع التفاصيل التالية:</p><ul><li><strong>رقم العقد:</strong> {{leaseNo}}</li><li><strong>اسم المستأجر:</strong> {{name}}</li><li><strong>عنوان العقار:</strong> {{address}}</li><li><strong>تاريخ بدء الإيجار:</strong> {{startDate}}</li><li><strong>تاريخ نهاية الإيجار:</strong> {{endDate}}</li><li><strong>مدة الإيجار الكلية:</strong> {{totalDays}} يوم</li><li><strong>الإيجار الشهري:</strong> {{monthlyRent}} {{currency}}</li><li><strong>إجمالي مبلغ الإيجار:</strong> {{totalRent}} {{currency}}</li></ul><p>إذا كان لديك أي استفسار، لا تتردد في التواصل معنا.</p><br><p>مع أطيب التحيات،<br><strong>{{company}}</strong></p>",
+
+    "installment-paid-subject": "{{company}}: إيصال دفع القسط الإيجاري",
+    "installment-paid-body": "<p>مرحباً {{name}}،</p><p>تم استلام دفعة من قسط الإيجار الخاص بك بالمعلومات التالية:</p><ul><li><strong>رقم العقد:</strong> {{leaseNo}}</li><li><strong>اسم المستأجر:</strong> {{name}}</li><li><strong>تاريخ استحقاق القسط:</strong> {{dueDate}}</li><li><strong>إجمالي مبلغ القسط:</strong> {{amount}} {{currency}}</li><li><strong>المبلغ المدفوع:</strong> {{paid}} {{currency}}</li><li><strong>المبلغ المتبقي:</strong> {{remaining}} {{currency}}</li><li><strong>طريقة الدفع:</strong> {{paymentMethod}}</li><li><strong>تاريخ الدفع:</strong> {{paymentDate}}</li><li><strong>ضريبة القيمة المضافة:</strong> {{vat}} {{currency}}</li><li><strong>غرامة مدفوعة:</strong> {{fine}} {{currency}}</li></ul><p>شكرًا على دفعتك. يرجى التأكد من سداد المبلغ المتبقي قبل تاريخ الاستحقاق إذا وجد.</p><br><p>مع أطيب التحيات،<br><strong>{{company}}</strong></p>",
+
+    "installment-paid-reminder-subject": "{{company}}: تذكير بدفع القسط الإيجاري",
+    "installment-paid-reminder-body": "<p>مرحباً {{name}}،</p><p>نود تذكيرك بأن قسط الإيجار الخاص بك مستحق وفقًا للتفاصيل التالية:</p><ul><li><strong>رقم العقد:</strong> {{leaseNo}}</li><li><strong>اسم المستأجر:</strong> {{name}}</li><li><strong>تاريخ استحقاق القسط:</strong> {{dueDate}}</li><li><strong>إجمالي المبلغ المستحق:</strong> {{amount}} {{currency}}</li><li><strong>المبلغ المدفوع:</strong> {{paid}} {{currency}}</li><li><strong>المبلغ المتبقي:</strong> {{remaining}} {{currency}}</li><li><strong>ضريبة القيمة المضافة:</strong> {{vat}} {{currency}}</li><li><strong>غرامة متوقعة (في حال التأخير):</strong> {{dueFineAmount}} {{currency}}</li></ul><p>يرجى التأكد من سداد المبلغ المستحق قبل تاريخ الاستحقاق لتجنب غرامات التأخير.</p><br><p>مع أطيب التحيات،<br><strong>{{company}}</strong></p>"
+
+  }
+}

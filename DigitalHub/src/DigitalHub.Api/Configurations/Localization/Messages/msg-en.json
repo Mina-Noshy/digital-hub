@@ -1,0 +1,54 @@
+{
+  "Msg-EN": {
+    "msg-successful-create": "Created successfully",
+    "msg-successful-update": "Updated successfully",
+    "msg-successful-delete": "Deleted successfully",
+
+    "msg-failed-create": "Create failed. Please verify the details and try again later",
+    "msg-failed-update": "Update failed. Please verify the details and try again later",
+    "msg-failed-delete": "Delete failed. Please verify the details and try again later",
+
+    "msg-invalid-credentials": "Invalid username or password",
+    "msg-account-inactive": "Your account is inactive. Please contact support",
+    "msg-account-blocked": "Your account is blocked. Please contact support",
+    "msg-confirmation-required": "Your account requires confirmation before logging in",
+    "msg-unauthorized": "You are not authorized to access this resource",
+    "msg-forbidden": "You do not have permission to perform this action",
+
+    "msg-token-expired": "Your session has expired. Please log in again",
+    "msg-token-revoked": "Your session is no longer valid. Please log in again",
+    "msg-refresh-token-invalid": "The refresh token provided is invalid or expired",
+
+    "msg-password-updated": "Password updated successfully",
+    "msg-email-confirmed": "Email confirmed successfully",
+    "msg-contact-confirmed": "Contact number confirmed successfully",
+    "msg-email-confirmation-toggled": "Email confirmation toggled successfully",
+    "msg-contact-confirmation-toggled": "Contact number confirmation toggled successfully",
+    "msg-account-activation-toggled": "Account activation toggled successfully",
+    "msg-account-blockation-toggled": "Account blockation toggled successfully",
+
+    "msg-unit-unavailable-or-leased": "The unit is unavailable or already leased",
+
+    "msg-entity-id-mismatch": "The item IDs do not match. Please check the details and try again",
+    "msg-item-not-found": "The requested item could not be found. Please double-check the details and try again",
+    "msg-item-already-exist": "The item already exists. Please choose a different name or value",
+    "msg-server-error": "An internal server error occurred. Please try again later",
+    "msg-something-wrong": "Something went wrong. Please try again later",
+    "msg-rate-limit-exceeded": "Too many requests. Please slow down and try again later",
+
+    "msg-finance-payment-method-no-account": "No account is associated with the payment method",
+    "msg-finance-security-deposit-config": "Default account is not configured. Please assign an account to",
+    "msg-security-deposit-received": "Security deposit received",
+    "msg-security-deposit-increased": "Security deposit increased",
+    "msg-security-deposit-debited": "Security deposit debited",
+    "msg-deposit-liability-created": "Deposit liability created",
+    "msg-installment-payment-received": "Installment payment received",
+    "msg-lease-income-recognized": "Lease income recognized",
+    "msg-finance-installment-config": "Installment configuration is missing for transaction type",
+    "msg-finance-vat-config": "VAT configuration is missing for transaction type",
+    "msg-finance-late-fee-config": "Late fee configuration is missing for transaction type",
+
+    "msg-successful-sent": "Sent successfully",
+    "msg-failed-send": "Send failed. Please verify the details and try again later"
+  }
+}

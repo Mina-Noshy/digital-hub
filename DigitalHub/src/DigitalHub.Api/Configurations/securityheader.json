@@ -1,0 +1,11 @@
+{
+  "SecurityHeaderSettings": {
+    "Enable": true,
+    "XFrameOptions": "SAMEORIGIN",
+    "XContentTypeOptions": "nosniff",
+    "ReferrerPolicy": "no-referrer",
+    "PermissionsPolicy": "geolocation=(self), microphone=()",
+    "SameSite": "Strict",
+    "XXSSProtection": "1; mode=block"
+  }
+}
